@@ -47,7 +47,8 @@ def threes(n):
 
 def small_words(text):
     '''
-    Returns a list of all words in the input text that are less than 5 characters long.
+    Returns a list of all words in the
+    input text that are less than 5 characters long.
 
     HINT:
     Recall that text.split() converts the text variable into a list of words.
