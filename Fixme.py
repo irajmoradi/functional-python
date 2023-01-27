@@ -8,7 +8,7 @@ and not for loops or list comprehensions.
 
 def evens(n):
     '''
-    Returns a list of even numbers from 0 to n inclusive.
+    Returns A list of even numbers from 0 to n inclusive.
 
 
     >>> evens(10)
